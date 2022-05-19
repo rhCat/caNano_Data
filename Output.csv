@@ -1,0 +1,614 @@
+106037277,Dartmouth_SToraya-BrownNanomedicine2014-01,NaN,NaN,NaN
+106037261,WHU_CLiuACSChemBiol2020-02,anti-tumor,NaN,NaN
+106037251,WHU_CLiuACSChemBiol2020-01,anti-tumor,NaN,NaN
+88932368,UNMC_VanderbiltU-YWangACSAMI2020-16,biopolymer,targeting function,
+88932367,UNMC_VanderbiltU-YWangACSAMI2020-15,biopolymer,targeting function,
+88932356,UNMC_VanderbiltU-YWangACSAMI2020-14,small molecule,imaging function,
+88932356,UNMC_VanderbiltU-YWangACSAMI2020-14,biopolymer,targeting function,"interacts with av integrins and neuropilin-1 receptor; after binding to integrins, the peptide exposes the RXXK/R motif for neuropilin-1 (NRP-1) receptor, which induces further penetration into tumor area and cells"
+89784322,UNMC_VanderbiltU-YWangACSAMI2020-13,small molecule,imaging function,
+89784322,UNMC_VanderbiltU-YWangACSAMI2020-13,biopolymer,targeting function,noncomplementary targeting
+89784321,UNMC_VanderbiltU-YWangACSAMI2020-12,small molecule,imaging function,
+89784321,UNMC_VanderbiltU-YWangACSAMI2020-12,biopolymer,targeting function,
+88932362,UNMC_VanderbiltU-YWangACSAMI2020-11,small molecule,imaging function,
+88932362,UNMC_VanderbiltU-YWangACSAMI2020-11,biopolymer,targeting function,noncomplementary targeting
+88932361,UNMC_VanderbiltU-YWangACSAMI2020-10,small molecule,imaging function,
+88932361,UNMC_VanderbiltU-YWangACSAMI2020-10,biopolymer,imaging function,
+88932360,UNMC_VanderbiltU-YWangACSAMI2020-09,small molecule,imaging function,
+88932360,UNMC_VanderbiltU-YWangACSAMI2020-09,biopolymer,imaging function,
+88932359,UNMC_VanderbiltU-YWangACSAMI2020-08,small molecule,imaging function,
+88932359,UNMC_VanderbiltU-YWangACSAMI2020-08,biopolymer,targeting function,
+88932358,UNMC_VanderbiltU-YWangACSAMI2020-07,small molecule,function,
+88932358,UNMC_VanderbiltU-YWangACSAMI2020-07,biopolymer,targeting function,silences luciferase
+88932357,UNMC_VanderbiltU-YWangACSAMI2020-06,small molecule,imaging function,
+88932357,UNMC_VanderbiltU-YWangACSAMI2020-06,biopolymer,targeting function,"iRGD binds to av integrins, then proteolytically cleaved in the tumor to produce CRGDK/R to interact with neuropilin-1"
+90734593,UNMC_VanderbiltU-YWangACSAMI2020-05,small molecule,imaging function,
+90734593,UNMC_VanderbiltU-YWangACSAMI2020-05,biopolymer,targeting function,"silences polo-like kinase 1 (Plk1) overexpressed in various types of human tumors and suggested
+to control cancer development and progression"
+88932366,UNMC_VanderbiltU-YWangACSAMI2020-04,small molecule,imaging function,
+88932366,UNMC_VanderbiltU-YWangACSAMI2020-04,biopolymer,targeting function,"silences polo-like kinase 1 (Plk1)  overexpressed in in various types of human tumors and suggested
+to control cancer development and progression"
+88932354,UNMC_VanderbiltU-YWangACSAMI2020-03,small molecule,imaging function,
+88932354,UNMC_VanderbiltU-YWangACSAMI2020-03,biopolymer,targeting function,"silences polo-like kinase 1 (Plk1) overexpressed in various types of human tumors and suggested
+to control cancer development and progression"
+88932353,UNMC_VanderbiltU-YWangACSAMI2020-02,biopolymer,targeting function,"silences polo-like kinase 1 (Plk1) overexpressed in various types of human tumors and suggested
+to control cancer development and progression"
+86212608,KNUT_KBBiomed-EJHyunIJPh2019-08,NaN,NaN,NaN
+85622789,KNUT_KBBiomed-EJHyunIJPh2019-06,small molecule,targeting function,"silences expression of  AKT protein kinase which hyperactivation leads to cancer cell growth,
+proliferation and development of metastatic cancer"
+85622787,KNUT_KBBiomed-EJHyunIJPh2019-04,small molecule,targeting function,noncomplementary targeting
+85622786,KNUT_KBBiomed-EJHyunIJPh2019-03,small molecule,targeting function,"silences expression of AKT protein kinase which hyperactivation leads to cancer cell growth,
+proliferation and development of metastatic cancer"
+85622784,KNUT_KBBiomed-EJHyunIJPh2019-01,small molecule,targeting function,"silences expression of  AKT protein kinase which hyperactivation lead to cancer cell growth,
+proliferation and development of metastatic cancer"
+83394560,NEU-LMendesDD2019-13,biopolymer,targeting function,silences MDR1 gene
+82083849,NEU-LMendesDD2019-07,small molecule,therapeutic function,stabilizes microtubules in their polymerized form leading to cell death
+82083849,NEU-LMendesDD2019-07,biopolymer,targeting function,silences MDR1 gene
+77365252,UMMSM_UG_FIU-RPathakBMat2018-05,small molecule,targeting function,binds to antigens expressed on PCa cells
+77365250,UMMSM_UG_FIU-RPathakBMat2018-03,small molecule,therapeutic function,anti-inflammation
+77365248,UMMSM_UG_FIU-RPathakBMat2018-01,small molecule,therapeutic function,anti-inflammation
+74055681,WUSTL-NKotagiriNatComm2018-02,small molecule,targeting function,"The VLA-4 ligand, LLP2A (Supplementary Figure 2a), was prepared on solid support using standard fluorenylmethyloxycarbonyl (Fmoc) peptide synthesis as reported previously in [D. Pan et al DOI:10.2217/nnm.14.101 ]."
+74055680,WUSTL-NKotagiriNatComm2018-01,NaN,NaN,NaN
+70877192,CGU_CGMH_CGUST_MCUT-YJLuNanomat2018-09,small molecule,therapeutic function,"intercalates between base pairs in the DNA helix, thereby preventing DNA replication and ultimately
+inhibiting protein synthesis"
+70877192,CGU_CGMH_CGUST_MCUT-YJLuNanomat2018-09,antibody,targeting function,binds to the epidermal growth factor receptor (EGFr) on both normal and tumor cells
+70877192,CGU_CGMH_CGUST_MCUT-YJLuNanomat2018-09,quantum dot,imaging function,green
+70877191,CGU_CGMH_CGUST_MCUT-YJLuNanomat2018-08,antibody,targeting function,binds to the epidermal growth factor receptor (EGFr) on both normal and tumor cells
+70877191,CGU_CGMH_CGUST_MCUT-YJLuNanomat2018-08,quantum dot,imaging function,green fluorescence
+70877190,CGU_CGMH_CGUST_MCUT-YJLuNanomat2018-07,small molecule,therapeutic function,"intercalates between base pairs in the DNA helix, thereby preventing
+DNA replication and ultimately inhibiting protein synthesis"
+70877190,CGU_CGMH_CGUST_MCUT-YJLuNanomat2018-07,antibody,targeting function,binds to the epidermal growth factor receptor (EGFr) on both normal and tumor cells
+70877189,CGU_CGMH_CGUST_MCUT-YJLuNanomat2018-06,antibody,targeting function,binds to the epidermal growth factor receptor (EGFr) on both normal and tumor cells
+69861379,CESPU_UP_NEU-ANascimentoAB2017-04,biopolymer,targeting function,binds to epidermal growth factor receptor
+69861377,CESPU_UP_NEU-ANascimentoAB2017-02,biopolymer,targeting function,"Mad2 Mitotic arrest deficient-2, spindle checkpoint protein"
+69861376,CESPU_UP_NEU-ANascimentoAB2017-01,biopolymer,targeting function,"Mad2 Mitotic arrest deficient-2, spindle checkpoint protein"
+69632006,AsclepiXTher_JHU-EBresslerJBMR2018-15,NaN,NaN,NaN
+69632005,AsclepiXTher_JHU-EBresslerJBMR2018-14,NaN,NaN,NaN
+67862541,AsclepiXTher_JHU-EBresslerJBMR2018-13,NaN,NaN,NaN
+67862540,AsclepiXTher_JHU-EBresslerJBMR2018-12,NaN,NaN,NaN
+67862539,AsclepiXTher_JHU-EBresslerJBMR2018-11,small molecule,imaging function,near infrared
+67862539,AsclepiXTher_JHU-EBresslerJBMR2018-11,biopolymer,targeting function,binds to avb3 integrin and disrupts integrin dependent protein signaling pathways
+67862538,AsclepiXTher_JHU-EBresslerJBMR2018-10,small molecule,imaging function,orange-red
+67862538,AsclepiXTher_JHU-EBresslerJBMR2018-10,biopolymer,targeting function,binds to avb3 integrin and disrupts integrin dependent protein signaling pathways
+67862537,AsclepiXTher_JHU-EBresslerJBMR2018-09,biopolymer,targeting function,binds to avb3 integrin and disrupts integrin dependent protein signaling pathways
+67862536,AsclepiXTher_JHU-EBresslerJBMR2018-08,biopolymer,targeting function,binds to avb3 integrin and disrupts integrin dependent protein signaling pathways
+67862535,AsclepiXTher_JHU-EBresslerJBMR2018-07,biopolymer,targeting function,binds to avb3 integrin and disrupts integrin dependent protein signaling pathways
+67862534,AsclepiXTher_JHU-EBresslerJBMR2018-06,biopolymer,targeting function,binds to avb3 integrin and disrupts integrin dependent protein signaling pathways
+67862533,AsclepiXTher_JHU-EBresslerJBMR2018-05,biopolymer,targeting function,binds to avb3 integrin and disrupts integrin dependent protein signaling pathways
+67862532,AsclepiXTher_JHU-EBresslerJBMR2018-04,biopolymer,targeting function,binds to avb3 integrin and disrupts integrin dependent protein signaling pathways
+68812801,AsclepiXTher_JHU-EBresslerJBMR2018-03,biopolymer,targeting function,binds to alpha nu beta 3 integrin and disrupts integrin dependent protein signaling pathways
+67862530,AsclepiXTher_JHU-EBresslerJBMR2018-02,biopolymer,targeting function,binds to alpha nu beta 3 integrin and disrupts integrin dependent protein signaling pathways
+68812800,AsclepiXTher_JHU-EBresslerJBMR2018-01,biopolymer,targeting function,binds to avb3 integrin and disrupts integrin dependent protein signaling pathways
+67305483,FU_UCSD-ZChaiJRC2017-13,small molecule,imaging function,
+67305483,FU_UCSD-ZChaiJRC2017-13,biopolymer,targeting function,exhibits high affinity to nAChRs
+67305480,FU_UCSD-ZChaiJRC2017-10,small molecule,imaging function,
+67305480,FU_UCSD-ZChaiJRC2017-10,biopolymer,targeting function,exhibits high affinity to nAChRs
+67305478,FU_UCSD-ZChaiJRC2017-07,small molecule,therapeutic function,intercalates with DNA inducing single and double-strand breaks in DNA interfering with DNA replication and RNA synthesis
+67305478,FU_UCSD-ZChaiJRC2017-07,biopolymer,targeting function,exhibits high affinity to nACHRs
+67305476,FU_UCSD-ZChaiJRC2017-05,biopolymer,targeting function,exhibits high affinity to nAChRs
+59768834,GU_MCCRC_Gradalis_TO_MCDH_SGT-KPirolloMT2016-01,antibody,targeting function,targeting transferrin receptor
+59768834,GU_MCCRC_Gradalis_TO_MCDH_SGT-KPirolloMT2016-01,biopolymer,therapeutic function,restores p53 tumor suppressing function
+59768833,UTMDACC_UT_GU_SGT-ASiefker-RadtkeMT2016-01,biopolymer,targeting function,binds to transferrin receptor
+59768832,MCCRC_TO_MDDH_GU_SGT-NSenzerMT2013-01,small molecule,therapeutic function,restores p53 tumor suppressing function
+59768832,MCCRC_TO_MDDH_GU_SGT-NSenzerMT2013-01,biopolymer,targeting function,targets transferrin receptor
+58916873,OSU_UK_NDSU-DBinzelMT2016-15,small molecule,imaging function,far red
+58916873,OSU_UK_NDSU-DBinzelMT2016-15,biopolymer,targeting function,binds to prostate specific membrane antigen with high affinity and specificity
+57933835,OSU_UK_NDSU-DBinzelMT2016-12,small molecule,NaN,NaN
+57933835,OSU_UK_NDSU-DBinzelMT2016-12,biopolymer,targeting function,binds to prostate specific membrane antigen with high affinity and specificity
+57933834,OSU_UK_NDSU-DBinzelMT2016-11,small molecule,NaN,NaN
+57933834,OSU_UK_NDSU-DBinzelMT2016-11,biopolymer,targeting function,binds to prostate specific membrane antigen with high affinity and specificity
+57933833,OSU_UK_NDSU-DBinzelMT2016-10,small molecule,targeting function,binds to prostate specific membrane antigen with high affinity and specificity
+57933833,OSU_UK_NDSU-DBinzelMT2016-10,biopolymer,therapeutic function,"silences expression miR21, which downregulates tumor suppressors (PTEN, PDCD4) and upregulates
+antiapoptotic genes"
+57933831,OSU_UK_NDSU-DBinzelMT2016-08,small molecule,targeting function,binds to prostate specific membrane antigen with high affinity and specificity
+57933830,OSU_UK_NDSU-DBinzelMT2016-07,small molecule,targeting function,binds to prostate specific membrane antigen with high affinity and specificity
+57933829,OSU_UK_NDSU-DBinzelMT2016-06,small molecule,targeting function,binds to prostate specific membrane antigen with high affinity and specificity
+57933829,OSU_UK_NDSU-DBinzelMT2016-06,radioisotope,NaN,NaN
+57933826,OSU_UK_NDSU-DBinzelMT2016-03,small molecule,targeting function,binds to prostate specific membrane antigen with high affinity and specificity
+57933825,OSU_UK_NDSU-DBinzelMT2016-02,small molecule,targeting function,binds to prostate specific membrane antigen with high affinity and specificity
+57933824,OSU_UK_NDSU-DBinzelMT2016-01,small molecule,targeting function,binds to prostate specific membrane antigen with high affinity and specificity
+57114648,UNC-KReuterNL2015-41,small molecule,NaN,NaN
+57114647,UNC-KReuterNL2015-40,small molecule,NaN,NaN
+57114646,UNC-KReuterNL2015-39,small molecule,NaN,NaN
+57114645,UNC-KReuterNL2015-38,small molecule,NaN,NaN
+57114644,UNC-KReuterNL2015-37,small molecule,NaN,NaN
+57114642,UNC-KReuterNL2015-36,small molecule,NaN,NaN
+57114641,UNC-KReuterNL2015-35,small molecule,NaN,NaN
+57114640,UNC-KReuterNL2015-34,small molecule,NaN,NaN
+57114639,UNC-KReuterNL2015-33,small molecule,NaN,NaN
+57114638,UNC-KReuterNL2015-32,small molecule,NaN,NaN
+57114637,UNC-KReuterNL2015-31,small molecule,NaN,NaN
+57114636,UNC-KReuterNL2015-30,small molecule,targeting function,binds to the extracellular domain of the EGFR surface glycoprotein
+57114635,UNC-KReuterNL2015-29,small molecule,targeting function,binds to the extracellular domain of the EGFR surface glycoprotein
+57114634,UNC-KReuterNL2015-28,small molecule,targeting function,binds to the extracellular domain of the EGFR surface glycoprotein
+57114633,UNC-KReuterNL2015-27,small molecule,targeting function,binds to the extracellular domain of the EGFR surface glycoprotein
+57114632,UNC-KReuterNL2015-26,small molecule,targeting function,binds to the extracellular domain of the EGFR surface glycoprotein
+56623122,UNC-KReuterNL2015-18,small molecule,NaN,NaN
+56623121,UNC-KReuterNL2015-17,small molecule,NaN,NaN
+56623120,UNC-KReuterNL2015-16,small molecule,NaN,NaN
+56623119,UNC-KReuterNL2015-15,small molecule,NaN,NaN
+56623118,UNC-KReuterNL2015-14,small molecule,NaN,NaN
+56623117,UNC-KReuterNL2015-13,small molecule,NaN,NaN
+56623116,UNC-KReuterNL2015-12,small molecule,NaN,NaN
+56623115,UNC-KReuterNL2015-11,small molecule,NaN,NaN
+56623114,UNC-KReuterNL2015-10,small molecule,targeting function,binds to the extracellular domain of the EGFR surface glycoprotein
+56623113,UNC-KReuterNL2015-09,small molecule,targeting function,binds to the extracellular domain of the EGFR surface glycoprotein
+56623112,UNC-KReuterNL2015-08,small molecule,targeting function,binds to the extracellular domain of the EGFR surface glycoprotein
+55967769,NWU-GYamankurt2016-08,biopolymer,targeting function,complementary recognition
+55967768,NWU-GYamankurt2016-07,biopolymer,targeting function,complementary recognition
+55967767,NWU-GYamankurt2016-06,biopolymer,targeting function,complementary recognition
+55967766,NWU-GYamankurt2016-05,biopolymer,targeting function,complementary recognition
+55967765,NWU-GYamankurt2016-04,biopolymer,targeting function,complementary recognition
+55967764,NWU-GYamankurt2016-03,biopolymer,targeting function,complementary recognition
+55967757,NWU-GYamankurt2016-02,biopolymer,targeting function,complementary recognition
+55967756,NWU-GYamankurt2016-01,biopolymer,targeting function,complementary recognition
+55836679,LVAMC_UL_HFPH-QwangCR2015-22,small molecule,NaN,NaN
+55836679,LVAMC_UL_HFPH-QwangCR2015-22,cell membrane,targeting function,targeting chemokines overexpressed in cells of inflammatory tissues
+55836678,LVAMC_UL_HFPH-QwangCR2015-21,small molecule,NaN,NaN
+55836678,LVAMC_UL_HFPH-QwangCR2015-21,cell membrane,targeting function,targeting chemokines overexpressed in cells of inflammatory tissues
+55836677,LVAMC_UL_HFPH-QwangCR2015-20,small molecule,NaN,NaN
+55836677,LVAMC_UL_HFPH-QwangCR2015-20,cell membrane,targeting function,targeting chemokines overexpressed in cells of inflammatory tissues
+55836676,LVAMC_UL_HFPH-QwangCR2015-19,small molecule,NaN,NaN
+55836676,LVAMC_UL_HFPH-QwangCR2015-19,cell membrane,targeting function,targeting chemokines overexpressed in cells of inflammatory tissues
+55836675,LVAMC_UL_HFPH-QwangCR2015-18,cell membrane,targeting function,targeting chemokines overexpressed in cells of inflammatory tissues
+55836674,LVAMC_UL_HFPH-QwangCR2015-17,cell membrane,targeting function,targeting chemokines overexpressed in cells of inflammatory tissues
+55836673,LVAMC_UL_HFPH-QwangCR2015-16,cell membrane,targeting function,targeting chemokines overexpressed in cells of inflammatory tissues
+54820878,LVAMC_UL_HFPH-QwangCR2015-15,small molecule,NaN,NaN
+54820878,LVAMC_UL_HFPH-QwangCR2015-15,cell membrane,targeting function,targeting chemokines overexpressed in cells of inflammatory tissues
+54820877,LVAMC_UL_HFPH-QwangCR2015-14,cell membrane,targeting function,targeting chemokines overexpressed in cells of inflammatory tissues
+54820876,LVAMC_UL_HFPH-QwangCR2015-13,cell membrane,targeting function,targeting chemokines overexpressed in cells of inflammatory tissues
+54820875,LVAMC_UL_HFPH-QwangCR2015-12,cell membrane,targeting function,targeting chemokines overexpressed in cells of inflammatory tissues
+54820874,LVAMC_UL_HFPH-QwangCR2015-11,small molecule,therapeutic function,"blocks formation of reactvive oxygen species, possesses anti-inflammatory properties as a results
+of inhibition of  enzymes involved in inflammation"
+54820874,LVAMC_UL_HFPH-QwangCR2015-11,cell membrane,targeting function,targeting chemokines overexpressed in cells of inflammatory tissues
+54820873,LVAMC_UL_HFPH-QwangCR2015-10,small molecule,therapeutic function,"intercalates with DNA inducing single and double-strand
+  breaks in DNA interfering with DNA replication and RNA synthesis"
+54820873,LVAMC_UL_HFPH-QwangCR2015-10,cell membrane,targeting function,targeting chemokines overexpressed in cells of inflammatory tissues
+54820872,LVAMC_UL_HFPH-QwangCR2015-09,small molecule,NaN,NaN
+54820872,LVAMC_UL_HFPH-QwangCR2015-09,cell membrane,targeting function,targeting chemokines overexpressed in cells of inflammatory tissues
+54820871,LVAMC_UL_HFPH-QwangCR2015-08,small molecule,NaN,NaN
+54820871,LVAMC_UL_HFPH-QwangCR2015-08,cell membrane,targeting function,targeting chemokines overexpressed in cells of inflammatory tissues
+54820870,LVAMC_UL_HFPH-QwangCR2015-07,cell membrane,targeting function,targeting chemokines overexpressed in cells of inflammatory tissues
+53772288,STANFORD-CEarhartLabChip2014-01,small molecule,targeting function,binds biotin with high affinity
+55967751,UT_OCI-ASykesACSNano2014-20,small molecule,targeting function,targets TfR1 receptor
+55967750,UT_OCI-ASykesACSNano2014-19,small molecule,targeting function,targets TfR1 receptor
+55967747,UT_OCI-ASykesACSNano2014-16,small molecule,targeting function,targets TfR1 receptor
+55967746,UT_OCI-ASykesACSNano2014-15,small molecule,targeting function,targets TfR1 receptor
+51445770,UT_OCI-ASykesACSNano2014-12,small molecule,targeting function,targets TfR1 receptor
+51445769,UT_OCI-ASykesACSNano2014-11,small molecule,targeting function,targets TfR1 receptor
+51445766,UT_OCI-ASykesACSNano2014-08,small molecule,targeting function,targets TfR1 receptor
+51445765,UT_OCI-ASykesACSNano2014-07,small molecule,targeting function,targets TfR1 receptor overexpressed on malignant cells
+55967753,UT_OCI-ASykesACSNano2014-22,small molecule,targeting function,targets TfR1 receptor
+48431116,JHU_MB-KPericaACSNano2014-11,NaN,NaN,NaN
+48431112,JHU_MB-KPericaACSNano2014-08,NaN,NaN,NaN
+48431107,JHU_MB-KPericaACSNano2014-04,NaN,NaN,NaN
+48431106,JHU_MB-KPericaACSNano2014-03,NaN,NaN,NaN
+48431104,JHU_MB-KPericaACSNano2014-01,NaN,NaN,NaN
+47349777,SJTU-YGuanBMat2014-08,small molecule,therapeutic function,"inhibits mitosis by shifting the dynamic equilibrium between tubulin dimers and
+microtubules toward polymerization, thereby stabilizing microtubules"
+47349777,SJTU-YGuanBMat2014-08,biopolymer,targeting function,targets NG2 proteoglycan highly expressed in tumor vascular pericytes
+47349775,SJTU-YGuanBMat2014-06,small molecule,imaging function,fluorescence
+47349775,SJTU-YGuanBMat2014-06,biopolymer,targeting function,targets NG2 proteoglycan highly expressed in tumor vascular pericytes
+47349771,SJTU-YGuanBMat2014-04,small molecule,therapeutic function,"inhibits mitosis by shifting the dynamic equilibrium between tubulin dimers and
+microtubules toward polymerization, thereby stabilizing microtubules"
+47349771,SJTU-YGuanBMat2014-04,biopolymer,targeting function,targets NG2 proteoglycan highly expressed in tumor vascular pericytes
+47349770,SJTU-YGuanBMat2014-03,biopolymer,targeting function,targets NG2 proteoglycan highly expressed in tumor vascular pericytes
+46006298,Caltech-HHanBC2013-11,NaN,NaN,NaN
+46006292,Caltech-HHanBC2013-10,small molecule,therapeutic function," inhibits DNA topoisomerase I enzyme by binding to topo I and DNA
+complex, stabilizing it, which is leading to DNA damage and apoptosis"
+45416453,WU_HCH-CWenACSNano2014-06,antibody,targeting function,binds to epithelial cell adhesion molecule
+45416452,WU_HCH-CWenACSNano2014-05,antibody,targeting function,binds to epithelial cell adhesion molecule
+45416451,WU_HCH-CWenACSNano2014-04,antibody,targeting function,reacts with IgG heavy chains and all classes of immunoglobulin light chains from rabbit
+44859392,NWU-SJensenSTM2013-15,small molecule,imaging function,
+44859392,NWU-SJensenSTM2013-15,biopolymer,targeting function,nonspecific control targeting E. coli beta-galactosidase 
+44302340,NWU-SJensenSTM2013-14,NaN,NaN,NaN
+44302339,NWU-SJensenSTM2013-13,NaN,NaN,NaN
+44302338,NWU-SJensenSTM2013-12,NaN,NaN,NaN
+44302337,NWU-SJensenSTM2013-11,small molecule,imaging function,
+44302337,NWU-SJensenSTM2013-11,biopolymer,targeting function,binds 746-774 region of the Bcl2L12 mRNA backbone
+44302336,NWU-SJensenSTM2013-10,small molecule,imaging function,
+44302336,NWU-SJensenSTM2013-10,biopolymer,targeting function,binds 746-774 region of the Bcl2L12 mRNA backbone
+43745288,NWU-SJensenSTM2013-09,small molecule,imaging function,
+43745288,NWU-SJensenSTM2013-09,biopolymer,targeting function,binds to 746-774 region of the Bcl2L12 mRNA backbone
+43745287,NWU-SJensenSTM2013-08,small molecule,imaging function,
+43745287,NWU-SJensenSTM2013-08,biopolymer,targeting function,binds to 746-774 region of the Bcl2L12 mRNA backbone
+43745286,NWU-SJensenSTM2013-07,biopolymer,targeting function,nonspecific control targeting E. coli beta-galactosidase
+43745285,NWU-SJensenSTM2013-06,biopolymer,targeting function,binds to 70-88 region of the Bcl2L12 mRNA backbone
+43745284,NWU-SJensenSTM2013-05,biopolymer,targeting function,binds to 516-534 region of the Bcl2L12 mRNA backbone
+43745283,NWU-SJensenSTM2013-04,biopolymer,targeting function,binds to 194-212 region of the Bcl2L12 mRNA backbone
+43745282,NWU-SJensenSTM2013-03,biopolymer,targeting function,binds to 746-774 region of the Bcl2L12 mRNA backbone
+43745281,NWU-SJensenSTM2013-02,biopolymer,targeting function,binds to 711-729 region of the Bcl2L12 mRNA backbone
+41418754,EMORY_ONT-GLeeACSNano2013-04,small molecule,therapeutic function,"It replaces one of the building blocks of nucleic acids,  in this case cytidine, during DNA replication.
+The process arrests tumor growth, as only one  additional nucleoside can be attached to the ""faulty""
+nucleoside, resulting in apoptosis."
+40566789,EMORY_ONT-GLeeACSNano2013-03,small molecule,therapeutic function,"It replaces one of the building blocks of nucleic acids,  in this case cytidine, during DNA replication.
+The process arrests tumor growth, as only one  additional nucleoside can be attached to the ""faulty""
+nucleoside, resulting in apoptosis."
+39649282,QUB_CIML_INSERM_CNRS-MZaricACSNano2013-03,biopolymer,targeting function,induces antigen-specific T cell immune responces
+39649281,QUB_CIML_INSERM_CNRS-MZaricACSNano2013-02,biopolymer,targeting function,induces antigen-specific T cell immune responces
+37191683,STANFORD_UC-UK-AThakorSTM2011-02,NaN,NaN,NaN
+35487753,BB_SH_KCI_DFCI_WCMC_BWH_MIT-JHrkachSTM2012-08,Polymer,targeting function,"binds to the prostate-specific membrane antigen (PSMA) on the surface of prostate cancer (PCa) cells
+PSMA prostate specific membrane antigen"
+35487751,BB_SH_KCI_DFCI_WCMC_BWH_MIT-JHrkachSTM2012-06,small molecule,therapeutic function,"inhibits mitosis by shifting the dynamic equilibrium between
+tubulin dimers and microtubules toward polymerization, thereby stabilizing microtubules"
+35487751,BB_SH_KCI_DFCI_WCMC_BWH_MIT-JHrkachSTM2012-06,Polymer,targeting function,"binds to the prostate-specific membrane antigen (PSMA) on the surface of prostate cancer (PCa) cells
+PSMA prostate specific membrane antigen"
+35487750,BB_SH_KCI_DFCI_WCMC_BWH_MIT-JHrkachSTM2012-05,small molecule,therapeutic function,"inhibits mitosis by shifting the dynamic equilibrium between
+tubulin dimers and microtubules toward polymerization, thereby stabilizing microtubules"
+35487750,BB_SH_KCI_DFCI_WCMC_BWH_MIT-JHrkachSTM2012-05,Polymer,targeting function,"binds to the prostate-specific membrane antigen (PSMA) on the surface of prostate cancer (PCa) cells
+PSMA prostate specific membrane antigen"
+35487749,BB_SH_KCI_DFCI_WCMC_BWH_MIT-JHrkachSTM2012-04,small molecule,therapeutic function,"inhibits mitosis by shifting the dynamic equilibrium between
+tubulin dimers and microtubules toward polymerization, thereby stabilizing microtubules"
+35487749,BB_SH_KCI_DFCI_WCMC_BWH_MIT-JHrkachSTM2012-04,Polymer,targeting function,"binds to the prostate-specific membrane antigen (PSMA) on the surface of prostate cancer (PCa) cells
+PSMA prostate specific membrane antigen"
+35487748,BB_SH_KCI_DFCI_WCMC_BWH_MIT-JHrkachSTM2012-03,small molecule,therapeutic function,"inhibits mitosis by shifting the dynamic equilibrium between
+tubulin dimers and microtubules toward polymerization, thereby stabilizing microtubules"
+35487748,BB_SH_KCI_DFCI_WCMC_BWH_MIT-JHrkachSTM2012-03,Polymer,targeting function,"binds to the prostate-specific membrane antigen (PSMA) on the surface of prostate cancer (PCa) cells
+PSMA prostate specific membrane antigen"
+35487747,BB_SH_KCI_DFCI_WCMC_BWH_MIT-JHrkachSTM2012-02,small molecule,therapeutic function,"inhibits mitosis by shifting the dynamic equilibrium between
+tubulin dimers and microtubules toward polymerization, thereby stabilizing microtubules"
+35487747,BB_SH_KCI_DFCI_WCMC_BWH_MIT-JHrkachSTM2012-02,Polymer,targeting function,"binds to the prostate-specific membrane antigen (PSMA) on the surface of prostate cancer (PCa) cells
+PSMA prostate specific membrane antigen"
+34996242,SNL_UNM-CAshleyACSNano2012-25,biopolymer,targeting function,affects cyclin E expression
+34996241,SNL_UNM-CAshleyACSNano2012-24,biopolymer,targeting function,affects cyclin D1 expression
+34996240,SNL_UNM-CAshleyACSNano2012-23,biopolymer,targeting function,affects cyclin B1 expression
+34996239,SNL_UNM-CAshleyACSNano2012-22,biopolymer,targeting function,affects cyclin A2 expression
+34996238,SNL_UNM-CAshleyACSNano2012-21,biopolymer,targeting function,affects cyclin A2 expression
+34996237,SNL_UNM-CAshleyACSNano2012-20,biopolymer,targeting function,negative control
+34996236,SNL_UNM-CAshleyACSNano2012-19,biopolymer,targeting function,affects cyclin A2 expression
+34996235,SNL_UNM-CAshleyACSNano2012-18,biopolymer,targeting function,affects cyclin E expression
+34996234,SNL_UNM-CAshleyACSNano2012-17,biopolymer,targeting function,affects cyclin D1 expression
+34996233,SNL_UNM-CAshleyACSNano2012-16,biopolymer,targeting function,affects cyclin B1 expression
+34996232,SNL_UNM-CAshleyACSNano2012-15,biopolymer,targeting function,affects cyclin A2 expression
+34996231,SNL_UNM-CAshleyACSNano2012-14,biopolymer,targeting function,affects cyclin E1 expression
+34996230,SNL_UNM-CAshleyACSNano2012-13,biopolymer,targeting function,affects cyclin D1 expression
+34996229,SNL_UNM-CAshleyACSNano2012-12,biopolymer,targeting function,affects cyclin B1 expression
+34996227,SNL_UNM-CAshleyACSNano2012-11,biopolymer,targeting function,affects cyclin A2 expression
+34996226,SNL_UNM-CAshleyACSNano2012-10,biopolymer,targeting function,affects gene expression
+34996225,SNL_UNM-CAshleyACSNano2012-09,biopolymer,targeting function,affects gene expression
+34209800,SNL_UNM-CAshleyACSNano2012-07,NaN,NaN,NaN
+34209797,SNL_UNM-CAshleyACSNano2012-06,biopolymer,targeting function,affects gene expression
+29851665,WSU_USTC-QZhouJDT2009-09,biopolymer,imaging function,Produces transient gene expression in cells
+29851664,WSU_USTC-QZhouJDT2009-08,biopolymer,imaging function,Produces transient gene expression in cells
+29851661,WSU_USTC-QZhouJDT2009-05,biopolymer,targeting function,Noncomplementary targeting
+29851660,WSU_USTC-QZhouJDT2009-04,biopolymer,targeting function,Targeting alpha-nu-beta-3 integrins
+29851652,UCSD_MIT_MGH_BIRM-JParkSmall2009-19,biopolymer,targeting function,Targeting clotted plasma proteins in the blood vessels and stroma of tumors
+28835999,BWH_Harvard_MIT_UCSD_UW_CU-AWangNanomed2010-16,small molecule,imaging function,Imaging polymer nanoparticle internalized in cells
+28835999,BWH_Harvard_MIT_UCSD_UW_CU-AWangNanomed2010-16,biopolymer,targeting function,Aptamer binds to the prostate-specific membrane antigen (PSMA) on the surface of prostate cancer (PCa) cells
+28835997,BWH_Harvard_MIT_UCSD_UW_CU-AWangNanomed2010-14,biopolymer,targeting function,Aptamer binds to the prostate-specific membrane antigen (PSMA) on the surface of prostate cancer (PCa) cells
+28835997,BWH_Harvard_MIT_UCSD_UW_CU-AWangNanomed2010-14,radioisotope,imaging function,Measuring 111In content in cells with a liquid scintillation counter
+28835994,BWH_Harvard_MIT_UCSD_UW_CU-AWangNanomed2010-11,biopolymer,targeting function,Aptamer binds to the prostate-specific membrane antigen (PSMA) on the surface of prostate cancer (PCa) cells
+28835994,BWH_Harvard_MIT_UCSD_UW_CU-AWangNanomed2010-11,radioisotope,therapeutic function,Emitted beta radiation damages cellular DNA causing mutation and apoptosis
+28835993,BWH_Harvard_MIT_UCSD_UW_CU-AWangNanomed2010-10,small molecule,therapeutic function,"Inhibits mitosis by shifting the dynamic equilibrium between tubulin dimers and microtubules toward polymerization, thereby stabilizing microtubules
+"
+28835993,BWH_Harvard_MIT_UCSD_UW_CU-AWangNanomed2010-10,biopolymer,targeting function,Aptamer binds to the prostate-specific membrane antigen (PSMA) on the surface of prostate cancer (PCa) cells
+28835993,BWH_Harvard_MIT_UCSD_UW_CU-AWangNanomed2010-10,radioisotope,therapeutic function,Emitted beta radiation damages cellular DNA causing mutation and apoptosis
+28835992,BWH_Harvard_MIT_UCSD_UW_CU-AWangNanomed2010-09,small molecule,therapeutic function,"Inhibits mitosis by shifting the dynamic equilibrium between tubulin dimers and microtubules toward polymerization, thereby stabilizing microtubules
+"
+28835992,BWH_Harvard_MIT_UCSD_UW_CU-AWangNanomed2010-09,biopolymer,targeting function,Aptamer binds to the prostate-specific membrane antigen (PSMA) on the surface of prostate cancer (PCa) cells
+28835983,BWH_MIT_Harvard_GIST_DFCI-OFarokhzadPNAS2006-04,small molecule,therapeutic function,"Inhibits mitosis by shifting the dynamic equilibrium between tubulin dimers and microtubules toward polymerization, thereby stabilizing microtubules"
+28835983,BWH_MIT_Harvard_GIST_DFCI-OFarokhzadPNAS2006-04,biopolymer,targeting function,Aptamer binds to the prostate-specific membrane antigen (PSMA) on the surface of prostate cancer (PCa) cells
+28835981,BWH_MIT_Harvard_GIST_DFCI-OFarokhzadPNAS2006-02,biopolymer,targeting function,Aptamer binds to the prostate-specific membrane antigen (PSMA) on the surface of prostate cancer (PCa) cells
+28835947,UCSD_Harvard_MIT_BWH_BIMR_UCSB-JParkPNAS2010-09,small molecule,therapeutic function,Intercalates with DNA inducing single and double-strand breaks in DNA interfering with DNA replication and RNA synthesis
+28835947,UCSD_Harvard_MIT_BWH_BIMR_UCSB-JParkPNAS2010-09,biopolymer,targeting function,Targeting p32 receptor/protein
+28835945,UCSD_Harvard_MIT_BWH_BIMR_UCSB-JParkPNAS2010-07,small molecule,therapeutic function,Intercalates with DNA inducing single and double-strand breaks in DNA interfering with DNA replication and RNA synthesis
+28835945,UCSD_Harvard_MIT_BWH_BIMR_UCSB-JParkPNAS2010-07,biopolymer,targeting function,Targeting p32 receptor/protein
+28835943,UCSD_Harvard_MIT_BWH_BIMR_UCSB-JParkPNAS2010-05,small molecule,imaging function,Ex vivo imaging nanoworms accumulated in excised murine tissues 
+28835943,UCSD_Harvard_MIT_BWH_BIMR_UCSB-JParkPNAS2010-05,biopolymer,targeting function,Targeting p32 receptor/protein
+28835942,UCSD_Harvard_MIT_BWH_BIMR_UCSB-JParkPNAS2010-04,small molecule,imaging function,Imaging nanoworms incubated in MDA-MB-435 or C8161 cells
+28835942,UCSD_Harvard_MIT_BWH_BIMR_UCSB-JParkPNAS2010-04,biopolymer,targeting function,Targeting p32 receptor/protein
+28835924,UCSD_MIT_MGH_BIRM-JParkSmall2009-18,small molecule,imaging function, Whole body imaging of murine model with implanted tumor
+28835924,UCSD_MIT_MGH_BIRM-JParkSmall2009-18,biopolymer,imaging function,
+29851651,UCSD_MIT_MGH_BIRM-JParkSmall2009-17,small molecule,imaging function,Ex vivo imaging excised murine tissues
+29851651,UCSD_MIT_MGH_BIRM-JParkSmall2009-17,biopolymer,imaging function,
+28835922,UCSD_MIT_MGH_BIRM-JParkSmall2009-16,biopolymer,imaging function,
+29851649,UCSD_MIT_MGH_BIRM-JParkSmall2009-13,small molecule,imaging function,Whole body imaging of murine model with implanted tumor
+29851649,UCSD_MIT_MGH_BIRM-JParkSmall2009-13,biopolymer,targeting function,Targeting clotted plasma proteins in the blood vessels and stroma of tumors
+28835918,UCSD_MIT_MGH_BIRM-JParkSmall2009-12,small molecule,imaging function,Whole body imaging of murine model with implanted tumor
+28835918,UCSD_MIT_MGH_BIRM-JParkSmall2009-12,biopolymer,targeting function,Targeting clotted plasma proteins in the blood vessels and stroma of tumors
+28835917,UCSD_MIT_MGH_BIRM-JParkSmall2009-11,small molecule,imaging function,Whole body imaging of murine model with implanted tumor
+28835917,UCSD_MIT_MGH_BIRM-JParkSmall2009-11,biopolymer,targeting function,Targeting clotted plasma proteins in the blood vessels and stroma of tumors
+28835916,UCSD_MIT_MGH_BIRM-JParkSmall2009-10,biopolymer,targeting function,Targeting clotted plasma proteins in the blood vessels and stroma of tumors
+28835915,UCSD_MIT_MGH_BIRM-JParkSmall2009-09,biopolymer,targeting function,Targeting clotted plasma proteins in the blood vessels and stroma of tumors
+28835914,UCSD_MIT_MGH_BIRM-JParkSmall2009-08,small molecule,imaging function,Whole body imaging of murine model with implanted tumor
+28835914,UCSD_MIT_MGH_BIRM-JParkSmall2009-08,biopolymer,targeting function,Targeting nucleolin - abundant protein of the nucleolus
+28835913,UCSD_MIT_MGH_BIRM-JParkSmall2009-07,small molecule,imaging function,Whole body imaging of murine model with implanted tumor
+28835913,UCSD_MIT_MGH_BIRM-JParkSmall2009-07,biopolymer,targeting function,Targeting nucleolin - abundant protein of the nucleolus
+28835912,UCSD_MIT_MGH_BIRM-JParkSmall2009-06,biopolymer,targeting function,Targeting nucleolin - abundant protein of the nucleolus
+28835911,UCSD_MIT_MGH_BIRM-JParkSmall2009-05,biopolymer,targeting function,Targeting nucleolin - abundant protein of the nucleolus
+28835906,MIT_MGH_TU_BWH-AAgrawalACSNano2009-11,NaN,NaN,NaN
+28835905,MIT_MGH_TU_BWH-AAgrawalACSNano2009-10,NaN,NaN,NaN
+28835899,MIT_MGH_TU_BWH-AAgrawalACSNano2009-04,NaN,NaN,NaN
+28835904,MIT_MGH_TU_BWH-AAgrawalACSNano2009-09,NaN,NaN,NaN
+28835903,MIT_MGH_TU_BWH-AAgrawalACSNano2009-08,NaN,NaN,NaN
+28835902,MIT_MGH_TU_BWH-AAgrawalACSNano2009-07,NaN,NaN,NaN
+28835901,MIT_MGH_TU_BWH-AAgrawalACSNano2009-06,NaN,NaN,NaN
+28835898,MIT_MGH_TU_BWH-AAgrawalACSNano2009-03,NaN,NaN,NaN
+28835897,MIT_MGH_TU_BWH-AAgrawalACSNano2009-02,NaN,NaN,NaN
+28835895,MIT_MGH_BIMR_UCSB_UCSD-GvMaltzahnBC2008-08,NaN,NaN,NaN
+28835894,MIT_MGH_BIMR_UCSB_UCSD-GvMaltzahnBC2008-07,NaN,NaN,NaN
+28835890,MIT_MGH_BIMR_UCSB_UCSD-GvMaltzahnBC2008-03,NaN,NaN,NaN
+28835889,MIT_MGH_BIMR_UCSB_UCSD-GvMaltzahnBC2008-02,NaN,NaN,NaN
+28835891,MIT_MGH_BIMR_UCSB_UCSD-GvMaltzahnBC2008-04,NaN,NaN,NaN
+28835888,MIT_MGH_BIMR_UCSB_UCSD-GvMaltzahnBC2008-01,NaN,NaN,NaN
+27131913,UMC_HSTVAMC_NB-NChandaPNAS2010-06,biopolymer,targeting function,Expresses high affinity towards gastrin releasing peptide receptor
+27131911,UMC_HSTVAMC_NB-NChandaPNAS2010-04,biopolymer,targeting function,Expresses high affinity towards gastrin releasing peptide receptor
+27131910,UMC_HSTVAMC_NB-NChandaPNAS2010-03,biopolymer,targeting function,Expresses high affinity towards gastrin releasing peptide receptor
+27131909,UMC_HSTVAMC_NB-NChandaPNAS2010-02,biopolymer,targeting function,Expresses high affinity towards gastrin releasing peptide receptor
+26476564,NWU-CMirkinNature1996-01,biopolymer,targeting function,Targeting complementary sequence in DNA duplex
+16285704,WUSTL-NSomanJCI2009-02,small molecule,targeting function,Targeting alpha-nu-beta-3 integrins
+16285703,WUSTL-NSomanJCI2009-09,small molecule,targeting function,Targeting alpha-nu-beta-3 integrins
+16285700,WUSTL-NSomanJCI2009-06,small molecule,targeting function,Targeting alpha-nu-beta-3 integrins
+16285700,WUSTL-NSomanJCI2009-06,biopolymer,imaging function,Intracellular tracking of FITC-melittin particles
+16285698,WUSTL-NSomanJCI2009-04,small molecule,targeting function,Targeting alpha-nu-beta-3 integrins
+16285698,WUSTL-NSomanJCI2009-04,biopolymer,imaging function,"Quantifying amount of the melittin in the supernatant by measuring the tryptophan fluorescence (excitation, 280 nm; emission, 350 nm)"
+15368254,UM-SWangAFM2007-08,small molecule,imaging function,
+15368252,MIT_MGH-JMcCarthySmall2006-03,small molecule,imaging function,Imaging intracellular accumulation of TNP after incubation (3h) in RAW 264.7 cells (0.1 mg Fe per mL).
+15368251,MIT_MGH-JMcCarthySmall2006-01,small molecule,targeting function,Targeting SIGNR1 dextran receptor expressed in murine macrophage cell line
+15368248,UMC-NChandaNL2009-04,biopolymer,targeting function,Expresses high affinity towards gastrin releasing peptide receptor
+15368247,UMC-NChandaNL2009-03,biopolymer,targeting function,Expresses high affinity towards gastrin releasing peptide receptor
+15368246,UMC-NChandaNL2009-02,biopolymer,targeting function,Expresses high affinity towards gastrin releasing peptide receptor
+10780738,UM-SSwansonIJN1008-02,NaN,NaN,NaN
+10780728,UM-RShuklaBC2006-01,NaN,NaN,NaN
+6979613,WSU-QZhouPR2009-04,NaN,NaN,NaN
+6979603,NWU-SHurstAC2007-01,biopolymer,targeting function,"Complementary DNA-functionalized gold nanoparticle 1.5 nM binds to another complementary DNA-functionalized gold nanoparticle 
+1.5 nM (epsilon = 2.40 x 10^8 L/mol/cm)."
+10780680,BROWN_STANFORD-HLeeJNM2008-05,biopolymer,targeting function,Targeting alpha-nu-beta-3 integrins 
+10780680,BROWN_STANFORD-HLeeJNM2008-05,radioisotope,imaging function,"Whole body imaging murine model with implanted U87MG tumor
+"
+10780678,BROWN_STANFORD-HLeeJNM2008-03,biopolymer,targeting function,Targeting alpha-nu-beta-3 integrins
+9994249,GATECH-KScarberryJACS2008-02,small molecule,imaging function,In vitro imaging of magnetic nanoparticles incubated in FDA loaded Hey cells
+9994249,GATECH-KScarberryJACS2008-02,Magnetic Particle,targeting function,"External magnetic field guided delivery of superparamagnetic nanoparticles not bound to FDA-loaded Hey or FDA-loaded BG-1 cells in vitro
+and in vivo guided delivery toward murine peritoneum superparamagnetic nanoparticles not bound to injected earlier FDA-loaded Hey or FDA-loaded BG-1 cells"
+9142328,STANFORD-BSmithNL2008-01,Quantum Dot,imaging function,"Imaging binding of peptide-quantum dot conjugate to tumor neovascular endothelial cells in vivo, Tumor cells were treated
+with enhanced green fluorescence protein (EGFP) before inoculation into mice ear and Angiosense 680 fluorescent dye was injected to outline the vasculature.
+
+Imaging U87MG-EGFP cells incubated with quantum dot-peptide conjugate."
+9142328,STANFORD-BSmithNL2008-01,Polymer,targeting function,"Targeting alpha-nu-beta-3 integrins - cell adhesion receptors involved in cell-extracellular matrix and cell-cell interactions.
+"
+9994272,UCSD_MIT_MGH-THarrisACIEE2006-05,small molecule,targeting function,Targeting biotin functionalized SPION particles
+6979655,UCSD_MIT_MGH-THarrisACIEE2006-04,biopolymer,targeting function,Targeting neutravidin functionalized SPION particles
+6979654,UCSD_MIT_MGH-THarrisACIEE2006-03,Magnetic Particle,targeting function,"Aggregates of neutravidin SPION and biotinylated SPION conjugates
+are drawn by external magnetic field into HT-1080 cells treated and nontreated by Galardin MMP inhibitor. "
+6979653,UCSD_MIT_MGH-THarrisACIEE2006-01,Magnetic Particle,imaging function,"Imaging of biotin and netravidin coated SPION conjugates aggregating in presence of the recombinant catalytic domain of MMP-2, its absence, incubated in HT-1080 cells, and incubated in HT-1080 cells treated with Galardin MMP inhibitor"
+6979653,UCSD_MIT_MGH-THarrisACIEE2006-01,biopolymer,targeting function,Targeting neutravidin functionalized SPION particles
+9994271,UCSD_MIT_MGH-THarrisACIEE2006-02,small molecule,targeting function,Targeting biotin functionalized SPION particles
+9994271,UCSD_MIT_MGH-THarrisACIEE2006-02,Magnetic Particle,imaging function,"Imaging of biotin and netravidin coated SPION conjugates aggregating in presence of the recombinant catalytic domain of MMP-2, its absence, incubated in HT-1080 cells, and incubated in HT-1080 cells treated with Galardin MMP inhibitor"
+6979652,UCSD_MIT_MGH-ADerfusBC2007-09,Quantum Dot,imaging function,"Fluorescent microscopy and flow cytometry of Hela-EGFP cells 
+treated with quantum dot conjugates and Lipofectamine 2000"
+6979652,UCSD_MIT_MGH-ADerfusBC2007-09,biopolymer,targeting function,Knocks down expression of Lamin A/C gene
+6979651,UCSD_MIT_MGH-ADerfusBC2007-08,Quantum Dot,imaging function,"Fluorescent microscopy and flow cytometry of Hela-EGFP cells 
+treated with quantum dot conjugates and Lipofectamine 2000"
+6979651,UCSD_MIT_MGH-ADerfusBC2007-08,biopolymer,targeting function,"Knocks down expression of EGFP in Hela-EGFP cell line 
+"
+6979650,UCSD_MIT_MGH-ADerfusBC2007-07,Quantum Dot,imaging function,Fluorescent microscopy and flow cytometry of Hela-EGFP cells incubated with quantum dot conjugates and Lipofectamine 2000 
+6979650,UCSD_MIT_MGH-ADerfusBC2007-07,biopolymer,targeting function,Knocks down expression of EGFP in Hela-EGFP cell line - human epithelial cells from a cervical carcinoma transfected with EGFP (enhanced green fluorescent protein)
+6979648,UCSD_MIT_MGH-ADerfusBC2007-05,Quantum Dot,imaging function,"Fluorescence activated cell sorting of Hela-EGFP cell line -  human epithelial cells  incubated with quantum dot conjugates.
+Flow cytometry of trypsinized HeLa-EGFP cells after incubation
+with quantum dot conjugates."
+6979648,UCSD_MIT_MGH-ADerfusBC2007-05,biopolymer,transfection,Enables internalization of quantum dot conjugates 
+6979646,UCSD_MIT_MGH-ADerfusBC2007-03,Quantum Dot,imaging function,Fluorescence activated cell sorting of Hela-EGFP cell line incubated with quantum dot conjugates
+6979646,UCSD_MIT_MGH-ADerfusBC2007-03,biopolymer,targeting function,Knocks down expression of EGFP  in Hela-EGFP cell line
+6979647,UCSD_MIT_MGH-ADerfusBC2007-04,Quantum Dot,imaging function,"Spectroscopy of SYBR Gold stained QD-siRNA conjugate.
+Flow cytometry of trypsinized HeLa-EGFP cells after incubation
+with QD-siRNA conjugate.
+Flow cytometry of trypsinized Hela-EGFP cells treated with
+QD-siRNA-Lipofectamine 2000 conjugate.
+Reaction molar ratio siRNA:QD  10:1"
+6979647,UCSD_MIT_MGH-ADerfusBC2007-04,biopolymer,targeting function,Targeting and knocking down expression of EGFP  in Hela-EGFP cell line - human epithelial cells from a cervical carcinoma transfected with EGFP (enhanced green fluorescent protein)
+6979642,UCSD_MIT_MGH-AChenNAR2005-01,Quantum Dot,imaging function,"Imaging of quantum dot conjugate transfected in 3T3 murine fibroblast cells and hepatocyte/3T3 murine fibroblast cells co-culture.
+Fluorescence-activated cell sorting of 3T3 murine fibroblast cells transfected with quantum dot conjugate  with different level of gene silencing."
+6979642,UCSD_MIT_MGH-AChenNAR2005-01,biopolymer,targeting function,Knocks down expression of Lamin A/C gene in 3T3-J2 - murine embryonic fibroblast cell line
+10780706,STANFORD-ZLiuNatNano2007-08,biopolymer,targeting function,Targeting alpha-nu-beta-3 integrins
+10780705,STANFORD-ZLiuNatNano2007-07,biopolymer,targeting function,Targeting alpha-nu-beta-3 integrins
+10780705,STANFORD-ZLiuNatNano2007-07,radioisotope,imaging function,Whole body imaging murine model having implanted tumor
+10780704,STANFORD-ZLiuNatNano2007-06,biopolymer,targeting function,Targeting alpha-nu-beta-3 integrins expressed by U87MG human glioblastoma cells
+10780703,STANFORD-ZLiuNatNano2007-05,biopolymer,targeting function,Targeting alpha-nu-beta-3 integrins expressed by U87MG human glioblastoma cells
+13041759,MSKCC_CU_UA-CVillaNL2008-09,biopolymer,targeting function,Noncomplementary targeting of alpha-nu-beta-3 integrins expressed in human coronary artery endothelial cell line (HCEC)
+13041758,MSKCC_CU_UA-CVillaNL2008-08,biopolymer,targeting function,"Targeting alpha-nu-beta-3 integrins expressed in human coronary
+artery endothelial cell line (HCEC)"
+13041753,MSKCC_CU_UA-CVillaNL2008-03,NaN,NaN,NaN
+13041752,MSKCC_CU_UA-CVillaNL2008-02,biopolymer,targeting function,"Targeting complementary phosphorothioate oligonucleotide (cODN, 5' to 3' sequence) TAG-TGT-TGA-CGA-AGG-GAC"
+13041746,NWU-NRosiScience2006-14,biopolymer,targeting function,"Targeting mRNA sequences coding for enhanced green fluorescent
+protein (EGFP) expressed in C166-EGFP - murine endothelial cell line"
+13041745,NWU-NRosiScience2006-13,biopolymer,targeting function,"Targeting mRNA sequences coding for enhanced green fluorescent
+protein (EGFP) expressed in C166-EGFP - murine endothelial cell line"
+13041723,NWU-DSeferosJACS2007-04,biopolymer,targeting function,Noncomplementary targeting of target region in survivin gene
+13041722,NWU-DSeferosJACS2007-03,biopolymer,targeting function,Targeting complementary region in survivin gene
+6979589,NWU-DSeferosJACS2007-01,biopolymer,targeting function,DNA complementary recognition
+13041684,PURDUE-CWAngACIEE-06,biopolymer,therapeutic function,"Trastuzumab/Herceptin binds to the HER2 (or c-erbB2) proto-oncogene,  an EGF (Epidermal Growth Factor) receptor-like protein and this leads to antibody mediated (complement mediated) killing of the HER2 positive cells."
+13041678,PURDUE-LTongAM2007-02,small molecule,targeting function,Targeting folate receptor 
+13041674,GT_EM-XQianNatBiotech2008-06,small molecule,imaging function,Spectroscopy of gold conjugates incubated in Tu686 and NCI-H520 cells
+13041674,GT_EM-XQianNatBiotech2008-06,antibody,targeting function,Targeting EGFR overexpressed in Tu686 cell line and passive targeting of NCI-H520 cells 
+13041676,GT_EM-XQianNatBiotech2008-08,small molecule,imaging function,Spectroscopy of gold conjugates incubated in Tu686
+13041676,GT_EM-XQianNatBiotech2008-08,antibody,targeting function,Passive targeting of Tu686 cells
+13041673,GT_EM-XQianNatBiotech2008-05,small molecule,imaging function,Spectroscopy of gold nanoparticle conjugates injected in murine model with implanted tumor
+13041673,GT_EM-XQianNatBiotech2008-05,antibody,targeting function,Nonspecific targeting of Tu686 cells implanted in murine model
+13041672,GT_EM-XQianNatBiotechB2008-04,small molecule,imaging function,Spectroscopy of gold nanoparticle conjugates injected in murine model with implanted tumor
+13041672,GT_EM-XQianNatBiotechB2008-04,antibody,targeting function,"Targeting EGFR overexpressed in Tu686 cell line
+"
+7667714,WUSTL-PWinterFJ2008-04,small molecule,imaging function,Microscopy of ex vivo tumor
+7667712,WUSTL-PWinterFJ2008-02,small molecule,imaging function,Imaging tumor induced angiogenesis in animal model
+7471105,WUSTL-PWinterFJ2008-01,small molecule,therapeutic function,Fumagillin - Inhibitor of angiogenic endothelial cells proliferation by inhibiting activity of methionine aminopeptidase 2 (MetAP2) enzyme
+12451850,WUSTL-JMarshIEEEUS2000-02,small molecule,targeting function,"Targeting fibrin clots formed by citrated porcine plasma combined with sodium chlorite, thrombin, exposed to excess biotinylated antifibrin antibody, and treated with avidin
+  "
+3735561,WUSTL-JMarshIEEEUS2000-01,small molecule,targeting function,"Targeting fibrin clots formed by citrated porcine plasma combined with sodium chlorite, thrombin, exposed to excess biotinylated anti-fibrin antibody, and treated with avidin."
+12451849,WUSTL-JMarshIEEEUS1999-07,small molecule,targeting function,Nonspecific targeting of tissue factor expressed in vitro in smooth muscle cells and in vivo in porcine injured carotid wall
+12451848,WUSTL-JMarshIEEEUS1999-06,small molecule,targeting function,"Targeting tissue factor expressed in vitro in smooth muscle cells
+and in vivo in porcine injured carotid wall"
+3735562,WUSTL-JMarshIEEEUS1999-01,small molecule,targeting function,"Targeting fibrin clots formed by citrated porcine plasma combined with sodium chlorite, thrombin, exposed to excess biotinylated anti-fibrin antibody, and treated with avidin"
+12451845,WUSTL-GHuIJC2007-03,small molecule,targeting function,"Targeting alpha-nu-beta-3 integrins - cell adhesion receptors involved in cell-extracellular matrix and cell-cell interactions
+"
+12451844,WUSTL-GHuIJC2007-02,small molecule,imaging function,Imaging tumor induced angiogenesis in animal model using planar gamma camera equipped with pinhole collimator
+4882432,WUSTL-GHuIJC2007-01,small molecule,imaging function,Imaging tumor induced angiogenesis in animal model using planar gamma camera equipped with pinhole collimator
+5111808,WUSTL-GHuIJC2007-06,small molecule,imaging function,Ex vivo fluorescent microscopy of alpha-nu-beta-3 integrin expressed by tumor vasculature
+8912896,WUSTL-GHuIJC2007-07,small molecule,imaging function,Ex vivo fluorescent microscopy of alpha-nu-beta-3 integrin expressed by tumor vasculature
+12451842,WUSTL-ASchmiederMRM2005-03,small molecule,targeting function,Targeting alpha-nu-beta-3 integrins - cell adhesion receptors involved in cell-extracellular matrix and cell-cell interactions 
+5111809,WUSTL-AMorawskiMRM2004-01,small molecule,imaging function,"Imaging fibrin clots and ex vivo human carotid artery
+Spectroscopy of fibrin clots treated with 5 different volumes of emulsion
+"
+3735566,WUSTL-JMarshIEEEUS1999-05,small molecule,targeting function,"Biotinylated PFH nanoparticles targeted fibrin clots formed by porcine plasma combined with thrombin, exposed to excess biotinylated anti-fibrin antibody, and treated with avidin."
+3735565,WUSTL-JMarshIEEEUS1999-04,small molecule,targeting function,"Targeting fibrin clots formed by porcine plasma combined with thrombin, exposed to excess biotinylated anti-fibrin antibody, and treated with avidin
+"
+3735564,WUSTL-JMarshIEEEUS1999-03,small molecule,targeting function,"Targeting fibrin clots formed by porcine plasma combined with thrombin, exposed to excess biotinylated anti-fibrin antibody, and treated with avidin.
+"
+3735563,WUSTL-JMarshIEEEUS1999-02,small molecule,targeting function,"Targeting fibrin clots formed by porcine plasma combined with thrombin, exposed to excess biotinylated anti-fibrin antibody, and treated with avidin.
+"
+3735560,WUSTL-PWinterATVB2006-08,small molecule,imaging function,Imaging artherosclerosis induced angiogenesis in animal model
+3735557,WUSTL-PWinterATVB2006-05,small molecule,targeting function,Targeting alpha-nu-beta-3 integrin receptors expressed in angiogenic endothelial cells
+3735555,WUSTL-PWinterATVB2006-04,small molecule,imaging function,Imaging of artherosclerosis induced angiogenesis in animal model
+3735554,WUSTL-PWinterATVB2006-03,small molecule,imaging function,"Imaging of artherosclerosis induced angiogenesis in animal model
+"
+3735569,WUSTL-SCaruthers-IR2006-03,small molecule,imaging function,"MRI imaging of fibrin clots formed by canine plasma anticoagulated with sodium citrate combined with thrombin and calcium chloride, exposed to excess biotinylated anti-fibrin antibody, treated with avidin, and biotinylated PFOB nanoparticles."
+3735568,WUSTL-SCaruthers-IR2006-02,small molecule,targeting function,"Targeting fibrin clots formed by canine plasma anticoagulated with sodium citrate combined with thrombin and calcium chloride, exposed to excess biotinylated anti-fibrin antibody, and treated with avidin. "
+3735567,WUSTL-SCaruthers-IR2006-01,small molecule,targeting function,"Targeting fibrin clots formed by canine plasma anticoagulated with sodium citrate combined with thrombin and calcium chloride, exposed to excess biotinylated anti-fibrin antibody, and treated with avidin. "
+4456450,WUSTL-JMarshUMB2007-04,small molecule,targeting function,"Targeting avidin-coated agar disks and smooth muscle cells exposed to biotinylated antitissue factor antibody and treated with avidin
+"
+4456449,WUSTL-JMarshUMB2007-03,small molecule,targeting function,Targeting avidin-coated agar disks and smooth muscle cells exposed to biotinylated antitissue factor antibody and treated with avidin
+4456448,WUSTL-JMarshUMB2007-02,small molecule,targeting function,"Targeting avidin-coated agar disks and smooth muscle cells exposed to biotinylated antitissue factor antibody and treated with avidin
+"
+3735552,WUSTL-PWInterATVB2006-01,small molecule,therapeutic function,Inhibitor of angiogenic endothelial cells proliferation by inhibiting activity of methionine aminopeptidase 2 (MetAP2) enzyme
+4194304,WUSTL-JMarshUMB2007-01,small molecule,targeting function,Targeting avidin-coated agar disks and smooth muscle cells exposed to biotinylated antitissue factor antibody and treated with avidin
+11337789,WUSTL-KPartlowBMat2008-04,small molecule,imaging function,"Imaging perfluorocarbon conjugates incubated in C32 cells
+in normal and under physiologic and inhibitory conditions"
+11337788,WUSTL-KPartlowBMat2008-03,small molecule,targeting function,Targeting alpha-nu-beta-3 integrins - cell adhesion receptors involved in cell-extracellular matrix and cell-cell interactions
+11337787,WUSTL-KPartlowBMat2008-02,small molecule,targeting function,"Targeting alpha-nu-beta-3 integrins - cell adhesion receptors involved in cell-extracellular matrix and cell-cell interactions
+"
+11337786,WUSTL-KPartlowBMat2008-01,small molecule,targeting function,Targeting alpha-nu-beta-3 integrins - cell adhesion receptors involved in cell-extracellular matrix and cell-cell interactions
+5111813,WUSTL-ASchmiederMRM2005-01,small molecule,imaging function,Imaging tumor induced angiogenesis in animal model
+5111812,WUSTL-AMorawskiMRM2004-04,small molecule,targeting function,Targeting fibrin clots treated with biotinylated antifibrin monoclonal antibodies and avidin
+5111811,WUSTL-AMorawskiMRM2004-03,small molecule,imaging function,Spectroscopy of 5 fibrin clots treated with different volumes of emulsion
+5111810,WUSTL-AMorawskiMRM2004-02,small molecule,targeting function,Targeting fibrin clots treated with biotinylated antifibrin monoclonal antibodies and avidin
+11337746,CAS_VT_VCU-CShuBC2008-02,antibody,targeting function,"Targeting Green Fluorescence Protein with mixture of biotinylated Bovine Serum Albumin (1.5 mg/mL, 20 microL), PBS (pH = 7.4), streptavidin (0.25 mg/mL, 20 microL), gadofulleride, and added GFP (3.38 x 10-9 M, 15 microL)"
+11337742,UNC-HKangPR2005-18,biopolymer,targeting function,Noncomplementary targeting the coding region at nt 1545-1565 of MDR1 mRNA
+11337741,UNC-HKangPR2005-17,biopolymer,targeting function,Targeting the coding region at nt 1545-1565 of MDR1 mRNA
+11337740,UNC-HKangPR2005-16,biopolymer,targeting function,Noncomplementary targeting the AUG start codon of MDR1 gene
+11337739,UNC-HKangPR2005-15,biopolymer,targeting function,Targeting the AUG start codon of MDR1 gene
+11337737,UNC-HKangPR2005-14,small molecule,NaN,NaN
+11337737,UNC-HKangPR2005-14,biopolymer,other,Transfection of dendrimer conjugates into NIH 3T3 MDR cells
+11337736,UNC-HKangPR2005-13,small molecule,NaN,NaN
+11337736,UNC-HKangPR2005-13,biopolymer,other,Transfection of dendrimer conjugates into NIH 3T3 MDR cells
+11337734,UNC-HKangPR2005-11,small molecule,NaN,NaN
+11337734,UNC-HKangPR2005-11,biopolymer,other,Transfection of dendrimer conjugates into NIH 3T3 MDR cells
+11337733,UNC-HKangPR2005-10,biopolymer,targeting function,Noncomplementary targeting the coding region at nt 1545-1565 of MDR1 mRNA
+11337735,UNC-HKangPR2005-12,small molecule,NaN,NaN
+11337735,UNC-HKangPR2005-12,biopolymer,other,Transfection of dendrimer conjugates into NIH 3T3 MDR cells
+11337732,UNC-HKangPR2005-09,biopolymer,targeting function,Targeting to the coding region at nt 1545-1565 of MDR1 mRNA
+11337731,UNC-HKangPR2005-08,biopolymer,targeting function,Noncomplementary targeting of AUG start codon of MDR1 gene
+11337729,UNC-HKangPR2005-07,biopolymer,targeting function,Targeting the AUG start codon of the MDR1 gene
+11337728,UNC-HKangPR2005-06,small molecule,imaging function,Imaging dendrimer conjugates incubated in NIH 3T3 MDR cells
+11337728,UNC-HKangPR2005-06,biopolymer,other,Transfection of dendrimer conjugates into NIH 3T3 MDR cells
+11337730,UNC-HKangPR2005-05,small molecule,imaging function,Imaging dendrimer conjugates incubated in NIH 3T3 MDR cells
+11337730,UNC-HKangPR2005-05,biopolymer,other,Transfection of dendrimer conjugates into NIH 3T3 MDR cells
+10780766,UNC-HKangPR2005-04,small molecule,imaging function,Imaging dendrimer conjugates incubated in NIH 3T3 MDR cells
+10780766,UNC-HKangPR2005-04,biopolymer,targeting function,Targeting the coding region at nt 1545-1565 of MDR1 mRNA
+10780765,UNC-HKangPR2005-03,small molecule,imaging function,Imaging dendrimer conjugates incubated in NIH 3T3 MDR cells
+10780765,UNC-HKangPR2005-03,biopolymer,imaging function,Imaging dendrimer conjugates incubated in NIH 3T3 MDR cells
+10780762,UM-IMajorosBM2006-06,small molecule,imaging function,Microscopy and flow cytometry of KB cells overexpressing and underexpressing folate receptors treated with dendrimer conjugates
+10780760,UM-IMajorosBM2006-04,small molecule,imaging function,Microscopy and flow cytometry of KB cell treated with dendrimer conjugates
+10780756,UM-XShiAM2008-12,Magnetic Particle,imaging function,"Imaging pellets made of KB cells with high level expression
+of folate receptors and treated with crosslinked iron oxide conjugates. In vivo imaging of murine model with implanted KB tumor."
+10780754,UM-XShiAM2008-10,NaN,NaN,NaN
+10780753,UM-XShiAM2008-09,NaN,NaN,NaN
+10780744,UM-AMycBM2007-01,small molecule,targeting function,Targeting folate receptor
+10780743,UM-AMycAD2008-05,small molecule,targeting function,Targeting folate receptor
+10780742,UM-AMycAD2008-04,small molecule,targeting function,Targeting folate receptor
+10780741,UM-AMycAD2008-03,small molecule,targeting function,Targeting folate receptor
+10780740,UM-AMycAD2008-02,small molecule,targeting function,Targeting folate receptor
+10780736,UM-XShiSmall2007-02,NaN,NaN,NaN
+10780734,UM-SWangAFM2007-06,small molecule,targeting function,Targeting folate receptor
+10780732,UM-SWangAFM2007-04,small molecule,targeting function,Targeting folate receptor
+10780727,STANFORD-ZLiuACIEE-2007-16,NaN,NaN,NaN
+10780726,STANFORD-ZLiuACIEE-2007-15,NaN,NaN,NaN
+10780725,STANFORD-ZLiuACIEE-2007-14,NaN,NaN,NaN
+10780724,STANFORD-ZLiuACIEE-2007-13,NaN,NaN,NaN
+10780723,STANFORD-ZLiuACIEE-2007-12,NaN,NaN,NaN
+10780722,STANFORD-ZLiuACIEE-2007-11,NaN,NaN,NaN
+10780720,STANFORD-ZLiuACIEE-2007-09,NaN,NaN,NaN
+10780719,STANFORD-ZLiuACIEE-2007-08,NaN,NaN,NaN
+10780717,STANFORD-ZLiuACIEE-2007-06,NaN,NaN,NaN
+10780716,STANFORD-ZLiuACIEE-2007-05,NaN,NaN,NaN
+10780715,STANFORD-ZLiuACIEE-2007-04,NaN,NaN,NaN
+10780698,SNU-NJiaNL2007-09,NaN,NaN,NaN
+10780696,SNU-NJiaNL2007-07,NaN,NaN,NaN
+10780689,WU_SU-SChenBM2008-09,small molecule,targeting function,Targeting folate receptor
+10780688,WU_SU-SChenBM2008-08,small molecule,therapeutic function,Inhibits thymidylate synthase (TS) and incorporation of its metabolites into RNA and DNA
+10780687,WU_SU-SChenBM2008-07,small molecule,targeting function,Targeting folate receptor
+10780686,WU_SU-SChenBM2008-06,small molecule,targeting function,Targeting folate receptor
+10780674,MIT_MGH_GIST-AWangCMC2008-03,small molecule,therapeutic function,Inhibits RNA and DNA replication by inhibiting unwinding DNA via interference with the function of enzymes involved in DNA replication
+10780674,MIT_MGH_GIST-AWangCMC2008-03,biopolymer,targeting function,Targeting prostate-specific membrane antigen expressed in LNCaP cells
+10780673,MIT_MGH_GIST-AWangCMC2008-02,Magnetic Particle,imaging function,Measurement of T1 and T2 relaxation times of nanoparticles incubated in  LNCaP cells expressing the prostate-specific membrane antigen and PC3 cells which don't  express PSMA
+10780673,MIT_MGH_GIST-AWangCMC2008-02,biopolymer,targeting function,Targeting prostate-specific membrane antigen expressed in LNCaP cells
+6979643,UCSD_MIT_MGH-AChenNAR2005-02,Quantum Dot,imaging function,Imaging orange quantum dot conjugates transfected in hepatocyte/3T3 murine fibroblast cells coculture
+6979643,UCSD_MIT_MGH-AChenNAR2005-02,biopolymer,targeting function,Down regulates of hepatocellular function in the hepatocyte/3T3 murine fibroblast cells cocultures
+6979641,STANFORD-WCaiNL2006-02,Quantum Dot,imaging function,"Whole body imaging of murine model with implanted U87MG tumor and injected  quantum dot conjugates through tail vein. Imaging quantum dot conjugates incubated in MCF-7, MDA-MB-435, and U87MG cell lines."
+6979641,STANFORD-WCaiNL2006-02,biopolymer,targeting function,"Targeting alpha-nu-beta-3 receptors expressed by U87MG tumor cells and by MCF-7, MDA-MB-435, and U87MG cell lines"
+6979639,STANFORD-WCaiJNM2007-04,Quantum Dot,imaging function,Ex vivo imaging of tissues harvested from murine model
+6979639,STANFORD-WCaiJNM2007-04,biopolymer,targeting function,Targeting alpha-nu-beta-3 integrin receptors expressed in U87MG - human glioblastoma cell lines
+6979639,STANFORD-WCaiJNM2007-04,radioisotope,imaging function,Whole body imaging of murine model with implanted U87MG tumor and ex vivo imaging of tissues harvested from murine model
+6979637,STANFORD-WCaiJNM2007-02,Quantum Dot,imaging function,Imaging quantum dot conjugate.incubated in U87MG - human glioblastoma cell lines overexpressing alpha-nu-beta-3 integrin and C6 - rat glioma cell lines not expressing integrin
+6979637,STANFORD-WCaiJNM2007-02,biopolymer,targeting function,Targeting alpha-nu-beta-3 integrin receptors expressed in U87MG - human glioblastoma cell lines 
+9142327,BROWN_STANFORD-JXieJACS2008-01,biopolymer,targeting function,Alpha-nu-beta-3 integrin targeting agent
+9994248,GATECH-KScarberryJACS2008-01,small molecule,imaging function,In vitro imaging of magnetic nanoparticles incubated in FDA loaded Hey and BG-1 cells and in vivo imaging of magnetic nanoparticles targeting FDA loaded Hey and BG-1 cells and consolidated in murine peritoneal cavity by external magnetic field
+9994248,GATECH-KScarberryJACS2008-01,Magnetic Particle,targeting function,External magnetic field guided delivery of superparamagnetic nanoparticles toward murine peritoneum injected earlier with FDA-loaded Hey or FDA-loaded BG-1 cells
+9994248,GATECH-KScarberryJACS2008-01,biopolymer,targeting function,Targeting EphA2 receptors
+6782979,MIT_BWH-FGuPNAS2008-05,biopolymer,targeting function,Noncomplementary targeting
+6782979,MIT_BWH-FGuPNAS2008-05,radioisotope,imaging function,Ex vivo measurements with liquid scintillation counter specific radioactivities of murine tissues
+6979600,NWU-NRosiScience2006-10,biopolymer,targeting function,"Targeting mRNA sequences coding for enhanced green fluorescent 
+protein (EGFP) expressed in C166-EGFP - murine endothelial cell line"
+6979601,NWU-NRosiScience2006-11,biopolymer,imaging function,Spectroscopy of reaction mixture consisting of antisense gold nanoparticle conjugated with Alexa Fluor-tagged complementary DNA and DNase  
+6979602,NWU-NRosiScience2006-12,biopolymer,targeting function,"Targeting mRNA sequences coding for enhanced green fluorescent
+protein (EGFP)"
+6979596,NWU-NRosiScience2006-06,biopolymer,targeting function,"Targeting mRNA sequences coding for enhanced green fluorescent
+protein (EGFP) expressed in C166-EGFP - murine endothelial cell line"
+6979595,NWU-NRosiScience2006-05,biopolymer,imaging function,"Spectroscopy and microscopy of gold nanoparticle conjugate transfecting C166-EGFP cells expressing EGFP, and  NIH-3T3, and HeLa cells which do not express EGFP."
+6979594,NWU-NRosiScience2006-04,biopolymer,targeting function,Noncomplementary recognition
+6979593,NWU-NRosiScience2006-03,biopolymer,targeting function,Noncomplementary recognition
+6979592,NWU-NRosiScience2006-02,biopolymer,targeting function,"Targeting mRNA sequences coding for enhanced green fluorescent
+protein (EGFP) expressed in C166-EGFP - murine endothelial cell line"
+6979591,NWU-NRosiScience2006-01,biopolymer,targeting function,Targeting mRNA sequences coding for enhanced green fluorescent protein (EGFP) expressed in C166-EGFP - murine endothelial cell line
+6979590,NWU-DSeferosJACS2007-02,biopolymer,targeting function,"DNA noncomplementary recognition
+"
+6979599,NWU-NRosiScience2006-09,biopolymer,imaging function,"Spectroscopy of gold nanoparticle conjugates transfecting
+C-166-EGFP cells and gold nanoparticle conjugates after treatment
+with Glutathione."
+6979598,NWU-NRosiScience2006-08,biopolymer,targeting function,Noncomplementary recognition
+6979597,NWU-NRosiScience2006-07,biopolymer,targeting function,Noncomplementary recognition
+6979588,NWU-DSeferosCBC2007-03,biopolymer,targeting function,DNA noncomplementary recognition
+6979585,NWU-DSeferosCBC2007-02,biopolymer,targeting function,DNA complementary recognition
+6979584,NWU-DSeferosCBC2007-01,biopolymer,targeting function,DNA complementary recognition
+9142326,GT_EM-AAgrawalJAFC2007-03,antibody,targeting function,Targeting recombinant murine TNF-alpha antigen attached to streptavidin coated magnetic microparticle and biotinylated monoclonal murine TNF-alpha antibody conjugate.
+9142326,GT_EM-AAgrawalJAFC2007-03,Polymer,imaging function,"Imaging of fluorescent nanoparticle and monoclonal antibody conjugate coupled with  streptavidin coated magnetic microparticle, biotinylated monoclonal murine TNF-alpha antibody, 
+and recombinant murine TNF-alpha antigen conjugate."
+6356993,GT_EM-AAgrawalJAFC2007-02,Quantum Dot,imaging function,"Imaging of quantum dot and monoclonal antibody conjugate coupled with  streptavidin coated magnetic microparticle, biotinylated monoclonal murine TNF-alpha antibody,  and recombinant murine TNF-alpha antigen conjugate."
+6356993,GT_EM-AAgrawalJAFC2007-02,antibody,targeting function,"Targeting recombinant murine TNF-alpha antigen attached to streptavidin coated magnetic microparticle and
+biotinylated monoclonal murine TNF-alpha antibody conjugate."
+6356992,GT_EM-AAgrawalJAFC2007-01,Quantum Dot,imaging function,"Imaging of quantum dot and monoclonal antibody conjugate coupled with  streptavidin coated magnetic microparticle, biotinylated monoclonal murine TNF-alpha antibody, and recombinant murine TNF-alpha antigen conjugate."
+6356992,GT_EM-AAgrawalJAFC2007-01,antibody,targeting function,"Targeting recombinant murine TNF-alpha antigen attached to streptavidin coated magnetic microparticle and
+biotinylated monoclonal murine TNF-alpha antibody conjugate."
+9142325,GT_EM-AAgrawalAC2006-09,antibody,targeting function,Nanoparticle monoclonal antibody paratope and respiratory syncytial virus antigen epitope form reversible noncovalent bond.
+9142325,GT_EM-AAgrawalAC2006-09,Polymer,imaging function,Coincidential imaging of fluorescence from both green and red nanoparticles when both particles recognize the same target molecule at two different binding sites.
+9142324,GT_EM-AAgrawalAC2006-08,antibody,targeting function,Nanoparticle monoclonal antibody paratope and respiratory syncytial virus antigen epitope form reversible noncovalent bond
+9142324,GT_EM-AAgrawalAC2006-08,Polymer,imaging function,Coincidential imaging of fluorescence from both green and red nanoparticles when both particles recognize the same target molecule at two different binding sites.
+5603335,GT_EM-AAgrawalAC2006-06,antibody,targeting function,"TNF-alpha antibody paratope and TNF-alpha antigen epitope
+form multiple reversible noncovalent bonds."
+5603335,GT_EM-AAgrawalAC2006-06,Polymer,imaging function,Coincidential imaging of fluorescence from both green and red nanoparticles when both particles recognize the same target molecule at two different binding sites.
+5603334,GT_EM-AAgrawalAC2006-05,Polymer,imaging function,Coincidential imaging of fluorescence from both green and red nanoparticles when both particles recognize the same target molecule at two different binding sites.
+5603334,GT_EM-AAgrawalAC2006-05,biopolymer,targeting function,"Nanoparticle oligonucleotide recognize complementary sequence 
+on target DNA."
+5603333,GT_EM-AAgrawalAC2006-04,Polymer,imaging function,"Coincidential imaging of fluorescence from both 
+green and red nanoparticles when both particles recognize
+the same target molecule at two different binding sites. "
+5603333,GT_EM-AAgrawalAC2006-04,biopolymer,targeting function,"Nanoparticle oligonucleotide recognize complementary sequence 
+on target DNA."
+9142279,MIT_MGH-SShawPNAS2008-08,small molecule,targeting function,Targets avidin
+6782977,MIT_BWH-FGuPNAS2008-02,small molecule,therapeutic function,Mitosis inhibitor
+6782977,MIT_BWH-FGuPNAS2008-02,biopolymer,targeting function,RNA aptamer binds to the prostate-specific membrane antigen (PSMA) on the surface of prostate cancer (PCa) cells.
+5603328,BWH_GIST_MIT_DFCI-VBagalkotNL2007-02,small molecule,therapeutic function,Inhibits RNA and DNA replication by inhibiting  unwinding via interference with the function of enzymes involved in DNA replication
+5603328,BWH_GIST_MIT_DFCI-VBagalkotNL2007-02,biopolymer,targeting function,Aptamer binds to the prostate-specific membrane antigen (PSMA) on the surface of prostate cancer (PCa) cells
+6782978,MIT_BWH-FGuPNAS2008-04,small molecule,imaging function,Ex vivo measurements with liquid scintillation counter specific radioactivities of murine tissues and cells
+6782978,MIT_BWH-FGuPNAS2008-04,biopolymer,targeting function,RNA aptamer binds to the prostate-specific membrane antigen (PSMA) on the surface of prostate cancer (PCa) cells.
+6782976,MIT_BWH-FGuPNAS2008-01,biopolymer,targeting function,"RNA aptamer binds to the prostate-specific membrane antigen (PSMA) on the surface of prostate cancer (PCa) cells.
+ "
+5603329,MIT_BWH-FGuPNAS2008-03,small molecule,imaging function,Imaging block copolymer conjugates internalized in LNCaP and PC3 cells
+5603329,MIT_BWH-FGuPNAS2008-03,biopolymer,targeting function,RNA aptamer binds to the prostate-specific membrane antigen (PSMA) on the surface of prostate cancer (PCa) cells.
+5341186,MIT_MGH-JMcCarthySmall2006-02,small molecule,imaging function,
